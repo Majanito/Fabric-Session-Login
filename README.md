@@ -6,6 +6,15 @@ A lightweight Fabric client-side mod that adds a GUI to log in using Minecraft s
 
 ---
 
+## 🧭 Available Versions
+
+| Minecraft Version | Branch     | Link                                                                 |
+|-------------------|------------|----------------------------------------------------------------------|
+| 1.21.5            | `main`     | [View Branch](https://github.com/Majanito/Fabric-Session-Login/tree/main)     |
+| 1.21.4            | `1.21.4`   | [View Branch](https://github.com/Majanito/Fabric-Session-Login/tree/1.21.4)   |
+
+---
+
 ## ✨ Features
 
 - 🧩 Adds a login screen to input your Minecraft session ID (Bearer token)
