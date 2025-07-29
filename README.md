@@ -1,5 +1,7 @@
 # 🪪 Session ID Login Mod
 
+![GitHub Downloads](https://img.shields.io/github/downloads/Majanito/Fabric-Session-Login/total?style=for-the-badge)
+
 A lightweight Fabric client-side mod that adds a GUI to log in using Minecraft session IDs.
 
 > 🔒 No account switching tools, launchers, or file editing required — just paste your session token and you're in.
