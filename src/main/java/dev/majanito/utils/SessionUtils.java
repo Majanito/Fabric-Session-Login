@@ -33,7 +33,7 @@ public class SessionUtils {
                 ssid,
                 Optional.empty(),
                 Optional.empty(),
-                Session.AccountType.MOJANG
+                Session.AccountType.MSA
         );
     }
 
@@ -45,7 +45,7 @@ public class SessionUtils {
                 ssid,
                 Optional.empty(),
                 Optional.empty(),
-                Session.AccountType.MOJANG
+                Session.AccountType.MSA
         );
     }
 
